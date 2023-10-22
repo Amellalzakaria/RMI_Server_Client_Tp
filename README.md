@@ -65,15 +65,21 @@ The application utilizes a MySQL database to store and manage the machine and sa
 Below are some screenshots showcasing the usage of the application:
 
 1.Dashboard:
+
 ![image](https://github.com/Amellalzakaria/RMI_Server_Client_Tp/assets/118927619/0447ff05-d017-493c-827a-51ff991b72dc)
 2. Adding a new salle:
+
 ![image](https://github.com/Amellalzakaria/RMI_Server_Client_Tp/assets/118927619/20648aee-5e95-43c1-92a9-2dc1516253ba)
 3- Adding a new machine and assigning it to a salle.
+
 ![image](https://github.com/Amellalzakaria/RMI_Server_Client_Tp/assets/118927619/df0e4e97-ce72-4cee-8a64-67fc9f7aa220)
 4. Delete a salle:
+
 ![66666](https://github.com/Amellalzakaria/RMI_Server_Client_Tp/assets/118927619/c22cd017-eb37-4efb-9c49-6da18827a74b)
 5. Delete a machine:
+
 ![image](https://github.com/Amellalzakaria/RMI_Server_Client_Tp/assets/118927619/fb63ef91-cbcb-45e7-931a-1273c482344a)
 6. Update a salle: 
+
 ![image](https://github.com/Amellalzakaria/RMI_Server_Client_Tp/assets/118927619/8a66df4e-4ba4-4c66-82e9-5b2dd6c705d2)
 
