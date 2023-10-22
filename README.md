@@ -31,7 +31,6 @@ The application provides a user-friendly interface for interacting with the serv
 
 ![diag class](https://github.com/Amellalzakaria/RMI_Server_Client_Tp/assets/118927619/19358ff8-a8c4-4646-ade8-e80c72861d90)
 
-0000000000
 ## Database Design
 
 The application utilizes a MySQL database to store and manage the machine and salle information. Below is the description of the database design:
