@@ -10,7 +10,7 @@ The system employs Java RMI to establish communication between the server and th
 
 To run the application, ensure that you have Java Development Kit (JDK) 8 or above installed on your system. Additionally, you will need to set up your Java IDE to support RMI.
 1. Clone the repository using the following command:
-git clone (https://docs.google.com/spreadsheets/d/1CLaNrD1EyouwRMGgsdzvBRdaIwOT70mbGgdZysyXWdQ/edit#gid=0)
+git clone https://github.com/Amellalzakaria/RMI_Server_Client_Tp.git
 
 3. Open the project in your preferred Java IDE.
 
